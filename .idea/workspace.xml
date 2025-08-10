@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Player/handheld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Player/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Player/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Player/suit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/ambient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/energy_source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/numstat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/satellite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/vehicle.py" afterDir="false" />
+    <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="class fields prototype">
+      <change beforePath="$PROJECT_DIR$/Model/ambient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ambient.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1754836163434</updated>
     </task>
+    <task id="LOCAL-00001" summary="class fields prototype">
+      <option name="closed" value="true" />
+      <created>1754849045833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754849045833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="class fields prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="class fields prototype" />
   </component>
 </project>
