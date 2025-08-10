@@ -13,6 +13,7 @@ class Ambient:
         self.tides = NumStat(0)
         self.uv_index = NumStat(0)
         self.sunlight = NumStat(100)
+        self.clouds = NumStat(100)
         self.sun_event = None
         self.inner_moon = None
         self.outer_moon = None
