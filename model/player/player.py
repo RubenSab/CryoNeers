@@ -1,7 +1,7 @@
 from suit import Suit
 from handheld import Handheld
-from storage import Storage
-from Model.numstat import NumStat
+from model.items.storage import Storage
+from model.numstat import NumStat
 
 class Player:
     def __init__(self):
@@ -13,4 +13,4 @@ class Player:
         }
         self.suit = Suit()
         self.handheld = Handheld()
-        self.storage = Storage()
+        self.storage = Storage(4)

@@ -1,4 +1,4 @@
-from numstat import NumStat
+from model.numstat import NumStat
 
 
 class Base:

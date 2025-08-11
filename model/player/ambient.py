@@ -3,7 +3,7 @@ from numstat import NumStat
 class Ambient:
     def __init__(self):
         self.temperature = NumStat(0)
-        self.condition = None
+        self.weather = None
         self.earthquake_intensity = NumStat(0)
         self.volcanism_intensity = NumStat(0)
         self.wind_speed = NumStat(0)

@@ -1,4 +1,4 @@
-from Model.Player.storage import Storage
+from Model.player.storage import Storage
 from numstat import NumStat
 
 

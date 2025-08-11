@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="class fields prototype">
-      <change beforePath="$PROJECT_DIR$/Model/ambient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model/ambient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/planet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/planet_coordinates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/world/satellite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Player/handheld.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/handheld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Player/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Player/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/items/storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/Player/suit.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/suit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/ambient.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/ambient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/world/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/energy_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/world/energy_source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/numstat.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/numstat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/satellite.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/items/air_tank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/world/vehicle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.air_tank.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model/world" />
+      <recent name="$PROJECT_DIR$/Model/world" />
+      <recent name="$PROJECT_DIR$/Model/player" />
+      <recent name="$PROJECT_DIR$/Model/items" />
       <recent name="$PROJECT_DIR$/Model" />
-      <recent name="$PROJECT_DIR$/Player" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -70,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754849045833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class fields prototype">
+      <option name="closed" value="true" />
+      <created>1754849347896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754849347896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="class fields prototype">
+      <option name="closed" value="true" />
+      <created>1754849360183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754849360183</updated>
+    </task>
+    <task id="LOCAL-00004" summary="class fields prototype">
+      <option name="closed" value="true" />
+      <created>1754849380058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754849380058</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

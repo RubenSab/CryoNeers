@@ -1,4 +1,4 @@
-from Model.numstat import NumStat
+from model.numstat import NumStat
 
 
 class EnergySource:
