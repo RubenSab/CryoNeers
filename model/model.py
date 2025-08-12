@@ -1,2 +1,3 @@
-class Model:
-    TICKS_PER_SECOND = 1
+from planet_clock import PlanetClock
+
+clock = PlanetClock()

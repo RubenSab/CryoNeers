@@ -2,8 +2,6 @@ class Planet:
     planet_name = 'Aphoryn'
     radius = 4770 # Km
     gravity = 0.55
-    day_length = 18 # Hours
-    year_length = 29056 # Hours
     star_name = 'HD 10647'
     star_class = 'F9V'
     tilt = 27.6
