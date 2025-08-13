@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="added things">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/player/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/planet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/player/suit.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/suit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755081790883</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added things">
+      <option name="closed" value="true" />
+      <created>1755083575822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755083575822</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,16 +155,5 @@
     <MESSAGE value="class fields prototype" />
     <MESSAGE value="added things" />
     <option name="LAST_COMMIT_MESSAGE" value="added things" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/model/planet_clock.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
