@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="class fields prototype">
-      <change afterPath="$PROJECT_DIR$/model/planet_clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/player/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/items/notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/singletons/clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/items/air_tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/items/air_tank.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/numstat.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/numstat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/planet.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/planet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/planet_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/planet_clock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/player/handheld.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/handheld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/player/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/map.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,5 +143,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class fields prototype" />
     <option name="LAST_COMMIT_MESSAGE" value="class fields prototype" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/planet_clock.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

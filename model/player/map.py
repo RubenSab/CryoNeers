@@ -3,10 +3,16 @@ MAP_WIDTH = int(MAP_HEIGHT*3)
 
 class Map:
     def __init__(self):
-        self.matrix = [[(' ', "empty") for _ in range(MAP_WIDTH)] for __ in range(MAP_HEIGHT)]
+        self.matrix = [[{
+            'symbol': ' ',
+            'note': ' '
+        } for _ in range(MAP_WIDTH)] for __ in range(MAP_HEIGHT)]
 
     def __str__(self):
-        lines = '\n'.join(['│'+''.join([i['symbol'] for i in row])+'│' for row in self.matrix])
+        lines = '\n'.join([
+            '│'+''.join([i['symbol'] for i in row])+'│'
+            for row in self.matrix
+        ])
         upper_frame = '┌'+'─'*MAP_WIDTH+'┐\n'
         lower_frame = '\n└'+'─'*MAP_WIDTH+'┘'
         return upper_frame + lines + lower_frame
