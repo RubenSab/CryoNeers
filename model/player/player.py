@@ -14,3 +14,4 @@ class Player:
         self.suit = Suit()
         self.handheld = Handheld()
         self.storage = Storage(4)
+        self.world_position = (0,0)

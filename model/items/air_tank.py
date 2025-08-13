@@ -1,4 +1,4 @@
-from model.singletons.clock import clock
+from model.singletons.clock_instance import clock
 from model.constants import PLANET_MINUTES_PER_TICK
 from model.numstat import NumStat
 

@@ -1,4 +1,4 @@
-from model.singletons.clock import clock
+from model.singletons.clock_instance import clock
 from model.player.handheld import Handheld
 
 #a = Handheld()

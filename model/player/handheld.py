@@ -1,10 +1,10 @@
-from model.player.map import Map
-from model.items.notes import Notes
+from model.singletons.map_instance import map
+from model.singletons.notes_instance import notes
 
 class Handheld:
     def __init__(self):
-        self.notes = Notes()
-        self.map = Map()
+        self.notes = notes
+        self.map = map
 
     # TODO
     def interact(self):

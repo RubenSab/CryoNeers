@@ -1,4 +1,4 @@
-from model.singletons.clock import clock
+from model.singletons.clock_instance import clock
 from model.constants import PLAYER_NAME
 
 class Notes:
@@ -29,7 +29,7 @@ class Notes:
 
     def __str__(self):
         return '\n'.join(reversed([
-            f'[{note["date"]}][{note['author']}] {note["title"]}'
+            f'[{note["date"]}][{note['author']}]: {note["title"]}'
             for note in self.archive
         ]))
 
