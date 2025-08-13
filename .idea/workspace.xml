@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="class fields prototype">
-      <change afterPath="$PROJECT_DIR$/model/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/items/notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/singletons/clock.py" afterDir="false" />
+    <list default="true" id="9c5ebbb9-a7f0-4224-a443-73a3e80a0a34" name="Changes" comment="added things">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/items/air_tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/items/air_tank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/planet_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/planet_clock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/player/handheld.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/handheld.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/player/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/player/map.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754911439493</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added things">
+      <option name="closed" value="true" />
+      <created>1755081790883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755081790883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="class fields prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="class fields prototype" />
+    <MESSAGE value="added things" />
+    <option name="LAST_COMMIT_MESSAGE" value="added things" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
